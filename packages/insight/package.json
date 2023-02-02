@@ -57,7 +57,7 @@
     "zone.js": "0.8.12"
   },
   "devDependencies": {
-    "@angular/cli": "7.3.4",
+    "@angular/cli": "15.1.4",
     "@angular/compiler-cli": "5.2.10",
     "@ionic/app-scripts": "3.2.3",
     "@types/jasmine": "2.5.41",
